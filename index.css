@@ -1,0 +1,32 @@
+body {
+    background-color: #fdf6e3;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.table {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.cell {
+    display: table-cell;
+    height: 100%;
+}
+
+.center-both {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.text {
+    font-family: 'Source Code Pro', sans-serif;
+}
+
+.primary {
+    color: #657b83;
+}
